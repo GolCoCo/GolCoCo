@@ -14,6 +14,10 @@ The platforms were .NET MAUI, WPF, Winform, .NET Framework, Avalonia, etc.
 My passion is building high quality applications and websites that deliver great user experiences. Recently I've been immersed in technologies like React Native, Swift, Android, React, Next.js, JavaScript, TypeScript, Node.js, Prisma ORM, MongoDB, MySQL, AWS cloud services, Sanity, Contentful CMS, and Figma design software. Feel free to talk about anything related to web development.
 Thanks for your visiting my github account.
 
+## .NET Stack
+C#, WPF, UWP, WPF, .NET Framework, .NET MAUI, ASP.NET, Avalonia, Synfucsion, MT4/MT5
+
+
 ## Current Stack
 
 | **Preprocessor Scripting Lang** | **Programming Lang** |
