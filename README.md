@@ -1,5 +1,3 @@
-![GitHub Banner Image](https://github.com/user-attachments/assets/AI_Generated_Image_2024-10-24_467473023004201)
-
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/abdul-farhan/">
     <img src="https://img.shields.io/badge/abdul_farhan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
