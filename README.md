@@ -10,7 +10,7 @@ Thanks for your visiting my github account.
 C#, WPF, UWP, WPF, .NET Framework, .NET MAUI, ASP.NET, Avalonia, Synfucsion, MT4/MT5
 
 
-## Current Stack
+## Web Stack
 
 | **Preprocessor Scripting Lang** | **Programming Lang** |
 | :--- | ---: |
