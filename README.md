@@ -1,6 +1,6 @@
 Hi,
 
-I'm GolCoco, a full stack web&mobile&desktop developer.
+I'm Shayne Beckham, a full stack web&mobile&desktop developer.
 I have done more than 100 .NET Auto Trader Projects for 5 years by using Alpaca Market, TraderStation, IBroker, MT4/5 APIs.
 The platforms were .NET MAUI, WPF, Winform, .NET Framework, Avalonia, etc.
 My passion is building high quality applications and websites that deliver great user experiences. Recently I've been immersed in technologies like React Native, Swift, Android, React, Next.js, JavaScript, TypeScript, Node.js, Prisma ORM, MongoDB, MySQL, AWS cloud services, Sanity, Contentful CMS, and Figma design software. Feel free to talk about anything related to web development.
