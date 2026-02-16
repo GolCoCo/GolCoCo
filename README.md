@@ -9,9 +9,6 @@ Thanks for your visiting my github account.
 ## .NET Stack
 C#, WPF, UWP, WPF, .NET Framework, .NET MAUI, ASP.NET, Avalonia, Synfucsion, MT4/MT5
 
-Trc20
-TNc5XmZ3n8tAbHxF8QjExD8MtDGpYiSbpv
-Bep20
 0x0eb234b05fd6f6e4b96b3e24a7c706ce4b72296e
 
 ## Web Stack
