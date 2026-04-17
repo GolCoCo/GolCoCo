@@ -11,7 +11,7 @@ C#, WPF, UWP, WPF, .NET Framework, .NET MAUI, ASP.NET, Avalonia, Synfucsion, MT4
 
 0x0eb234b05fd6f6e4b96b3e24a7c706ce4b72296e
 
-TFogteceoarVu3LjmPXCzC2SQfYj8zZmd4
+TMQrzMeAt3fsoqKmh4qNavDBpCShebLAqP
 
 TYjNWaTviRmMVxywUaDkuU5oUdHb3CJF1G
 ## Web Stack
